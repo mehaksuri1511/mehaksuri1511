@@ -50,7 +50,7 @@
 
 - 📍 Delhi, India  
 - 📧 **surimehak2@gmail.com** 
-- 💼 **LinkedIn ()**  
+- 💼 **LinkedIn (https://www.linkedin.com/in/mehak-suri-3178602b4/)**  
 - 🔗 [LeetCode](https://leetcode.com/u/mehak_suri15/)
 
 ---
