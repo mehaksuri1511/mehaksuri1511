@@ -11,7 +11,7 @@ Full Stack MERN Developer • Java • DSA • Web Development
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mehak-suri-3178602b4/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -19,11 +19,11 @@ Full Stack MERN Developer • Java • DSA • Web Development
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://github.com/mehaksuri1511/portfolio">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/mehak_suri15/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
 </a>
 </p>
