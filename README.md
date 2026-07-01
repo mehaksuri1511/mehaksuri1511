@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋 I'm Mehak Suri</h1>
 
 
 <h3 align="center">Pre-Final Year Engineering Undergraduate</h3>
@@ -5,6 +6,10 @@
 <h3 align="center">
 MERN Stack • Java • Problem Solving • Building Real-World Applications
 </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Java+Developer;DSA+Enthusiast;Always+Learning+New+Things!" />
+</p>
 
 <p align="center">
 <a href="mailto:mehaksuri15@outlook.com">
@@ -86,6 +91,12 @@ MERN Stack • Java • Problem Solving • Building Real-World Applications
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehaksuri1511&theme=tokyo-night"/>
+
+</p>
+
 </p>
 
 ---
@@ -97,18 +108,12 @@ MERN Stack • Java • Problem Solving • Building Real-World Applications
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 </p>
+<h3 align="center">
+
+✨ Code • Learn • Build • Repeat ✨
+
+</h3>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
