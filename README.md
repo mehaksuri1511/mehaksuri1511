@@ -1,197 +1,167 @@
-<h1 align="center">Hi 👋, I'm Mehak Suri</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech IT Student | Full Stack MERN Developer | Java & DSA Enthusiast | Open Source Learner
-</h3>
+# Hi 👋, I'm Mehak Suri
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Java+%7C+DSA+Learner;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Technologies!" />
-</p>
+### B.Tech IT Student | MERN Stack Developer | Java & DSA Enthusiast
 
-<p align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+### 🚀 Building Scalable Web Applications • Learning Every Day • Open to Opportunities
+
+<br>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/mehaksuri1511">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="750"/>
-</p>
+<div align="center">
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman" />
+
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-- 🎓 B.Tech in Information Technology at **BPIT, Delhi**
-- 💻 Passionate Full Stack MERN Developer
-- 🌱 Currently learning **Advanced MERN, DSA in Java & System Design**
-- 🚀 Former **DRDO (CFEES) Intern**
-- ⚡ Love building scalable web applications
-- 🎯 Goal: Software Engineer at a Product-Based Company
+## 🌸 Coding Setup
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="700"/>
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 👩‍💻 About Me
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,postman"/>
-
-</p>
+- 🎓 B.Tech in Information Technology @ BPIT, Delhi
+- 💻 Full Stack MERN Developer
+- 🚀 Former DRDO (CFEES) Intern
+- 🌱 Currently learning Advanced React, Node.js, System Design & DSA
+- ☕ Love Java, Web Development & Building Real-World Projects
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
-
-Modern responsive developer portfolio built using React, Tailwind CSS and Vercel.
-
----
+Personal portfolio built using React, Tailwind CSS & Vercel.
 
 ### 🛡️ DRDO CFEES Website
-
-Worked as a Frontend Developer during internship at DRDO.
-Developed responsive UI and integrated PHP & MySQL backend.
-
----
+Government website developed during internship using HTML, CSS, JavaScript, PHP & MySQL.
 
 ### 💪 FitBuddies
-
-Gym management platform built using React, Tailwind CSS and MERN Stack.
-
----
+Gym management web application using the MERN Stack.
 
 ### ⚔️ Code & Chaos
-
-Real-time Multiplayer Coding Battle Platform
-
-**Tech Stack**
-
-- React
-- Node.js
-- Express
-- Socket.io
-- MongoDB
-- Judge0 API
+Real-time multiplayer coding battle platform using React, Node.js, Socket.io, MongoDB & Judge0 API.
 
 ---
 
-# 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
+## 📊 GitHub Stats
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+## 🔥 GitHub Streak
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
+## 📈 Contribution Graph
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🌟 Currently Learning
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
 
 - Advanced MERN Stack
-- Data Structures & Algorithms
-- System Design
+- Data Structures & Algorithms in Java
 - Next.js
 - TypeScript
+- System Design
+- Docker
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/mehaksuri1511">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐️ From <b>Mehak Suri</b>
+### ⭐ Thanks for visiting my profile!
 
-</p>
+</div>
