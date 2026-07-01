@@ -54,6 +54,12 @@ Full Stack MERN Developer • Java • DSA • Web Development
 
 <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
 
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
@@ -63,6 +69,20 @@ Full Stack MERN Developer • Java • DSA • Web Development
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Judge0_API-FF6B00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
