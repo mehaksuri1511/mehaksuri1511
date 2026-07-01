@@ -170,7 +170,7 @@ Real-time multiplayer coding battle platform using:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mehak-suri-3178602b4/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -178,7 +178,7 @@ Real-time multiplayer coding battle platform using:
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
