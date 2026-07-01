@@ -74,18 +74,6 @@ Full Stack MERN Developer • Java • DSA • Web Development
   <img src="gif_Coding.gif" width="700" alt="Coding GIF">
 </div>
 
----
-
-# 👩‍💻 About Me
-
-- 🎓 B.Tech in Information Technology at **BPIT, Delhi**
-- 💻 Passionate MERN Stack Developer
-- ☕ Solving Data Structures & Algorithms using Java
-- 🌱 Currently learning Advanced MERN & System Design
-- 🚀 Former DRDO (CFEES) Intern
-- 🎯 Aspiring Software Engineer
-
----
 
 
 
