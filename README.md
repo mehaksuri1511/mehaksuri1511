@@ -98,6 +98,8 @@ MERN Stack • Java • Problem Solving • Building Real-World Applications
   <img src="gif_Coding.gif" width="700" alt="Coding GIF">
 </div>
 
+---
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehaksuri1511&theme=tokyo-night"/>
