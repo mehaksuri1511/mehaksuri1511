@@ -22,7 +22,7 @@ MERN Stack • Java • Problem Solving • Building Real-World Applications
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://github.com/mehaksuri1511/portfolio">
+<a href="https://portfolio-vert-alpha-36.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
