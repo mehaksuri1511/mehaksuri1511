@@ -87,84 +87,16 @@ Full Stack MERN Developer • Java • DSA • Web Development
 
 ---
 
-# 🚀 Featured Projects
 
-### 🌐 Portfolio Website
-Responsive portfolio built using **React, Tailwind CSS & Vercel**.
 
----
 
-### 🛡️ DRDO CFEES Website
-Government organization website developed during internship using **HTML, CSS, JavaScript, PHP & MySQL**.
 
----
 
-### 💪 FitBuddies
-Gym management platform built using **React, Tailwind CSS & MERN**.
 
----
 
-### ⚔️ Code & Chaos
-Real-time multiplayer coding battle platform using:
 
-- React
-- Node.js
-- Express
-- Socket.io
-- MongoDB
-- Judge0 API
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehaksuri1511&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehaksuri1511&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mehaksuri1511&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehaksuri1511&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehaksuri1511&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Advanced React
-- Next.js
-- TypeScript
-- System Design
-- Data Structures & Algorithms
-
----
 
 # 📫 Connect With Me
 
