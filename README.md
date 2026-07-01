@@ -70,9 +70,9 @@ Full Stack MERN Developer • Java • DSA • Web Development
 
 ---
 
-<p align="center">
-<img src="assets/coding.gif" width="700"/>
-</p>
+<div align="center">
+  <img src="gif_Coding.gif" width="700" alt="Coding GIF">
+</div>
 
 ---
 
