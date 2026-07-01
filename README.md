@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehak Suri</h1>
+
 
 <h3 align="center">B.Tech Information Technology Student</h3>
 
@@ -30,7 +30,7 @@ Full Stack MERN Developer • Java • DSA • Web Development
 
 ---
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
