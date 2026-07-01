@@ -1,6 +1,7 @@
 <div align="center">
-
-# Hi 👋, I'm Mehak Suri
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Mehak+Suri;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast;Building+Cool+Projects!" />
+</p>
 
 ### B.Tech IT Student | MERN Stack Developer | Java & DSA Enthusiast
 
