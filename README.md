@@ -8,25 +8,7 @@
 
 <br>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/mehaksuri1511">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
