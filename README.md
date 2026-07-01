@@ -98,33 +98,7 @@ Full Stack MERN Developer • Java • DSA • Web Development
 
 
 
-# 📫 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mehak-suri-3178602b4/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
-<a href="https://github.com/mehaksuri1511">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mehaksuri1511&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 
