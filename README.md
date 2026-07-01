@@ -24,9 +24,9 @@
 
 ## 🌸 Coding Setup
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="700"/>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Mehak+Suri;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast;Building+Cool+Projects!" />
+</p>
 
 ---
 
