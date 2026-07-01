@@ -1,13 +1,13 @@
 
 
-<h3 align="center">B.Tech Information Technology Student</h3>
+<h3 align="center">Pre-Final Year Engineering Undergraduate</h3>
 
 <h3 align="center">
-Full Stack MERN Developer • Java • DSA • Web Development
+MERN Stack • Java • Problem Solving • Building Real-World Applications
 </h3>
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mehaksuri15@outlook.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
